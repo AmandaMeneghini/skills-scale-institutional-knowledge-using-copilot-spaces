@@ -22,3 +22,5 @@ Quality assurance is embedded in execution and release practices. OctoAcme uses 
 - [Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](./octoacme-roles-and-personas.md)
+- [Cross-Functional Responsibility Matrix (RACI)](./octoacme-cross-functional-raci.md)
+- [Cross-Functional Handoff Checklist](./octoacme-cross-functional-handoff-checklist.md)
