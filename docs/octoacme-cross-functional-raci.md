@@ -15,8 +15,8 @@ Clarify role accountability across the delivery lifecycle so ownership is explic
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Initiation | C | A | R | C | I | I | I | R |
 | Planning | R | A | R | C | C | C | C | R |
-| Execution | R | A | R | R | C | R | A | C |
-| Release | R | A | A | C | R | R | C | C |
+| Execution | R | C | A | R | C | R | R | C |
+| Release | R | C | A | C | R | R | C | C |
 | Retrospective | R | C | A | C | I | R | R | C |
 
 ## Notes for use
